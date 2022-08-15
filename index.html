@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake game</title>
+    <script src="index.js" defer type="module"></script>
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="image/snake.webp">
+</head>
+
+<body style="background-color: #110621;">
+    <div class="snake">
+        <div style="margin-top: 150px;">
+            <canvas id="canvas" />
+        </div>
+        <div class="border">
+            <h1 style="color: white;">Score : <span id="counter"></span> </h1>
+        </div>
+    </div>
+
+    <div id="modal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <!-- <span class="close" style="color: white;">&times;</span> -->
+            <h1 class="game-over">Game Over!</h1>
+            <h1 class="game-score">Your Score : <span id="final-score"></span> </h1>
+            <button class="btn" id="btn">Play Again!</button>
+        </div>
+    </div>
+</body>
+
+</html>
