@@ -1,5 +1,6 @@
 {
-  "hosting": {
+  "hosting": [{
+    "target":"snake-game-207d1",
     "public": "./",
     "ignore": [
       "firebase.json",
@@ -7,6 +8,15 @@
       "**/node_modules/**"
     ]
   },
+  {
+    "target":"snakeyy",
+    "public": "./",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }],
   "emulators": {
     "hosting": {
       "port": 5003

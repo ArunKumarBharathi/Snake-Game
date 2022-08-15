@@ -5,13 +5,14 @@
   "targets": {
     "snake-game-207d1": {
       "hosting": {
+        "snakeyy": [
+          "snakeyy"
+        ],
         "snake-game-207d1": [
           "snake-game-207d1"
-        ],
-        "snakey": [
-          "snakey"
         ]
       }
     }
-  }
+  },
+  "etags": {}
 }
