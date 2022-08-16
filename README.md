@@ -15,6 +15,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.im.ge/2022/08/16/OOWUBD.Screenshot-2022-08-16-at-9-38-27-AM.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.im.ge/2022/08/16/OOWUBD.Screenshot-2022-08-16-at-9-38-27-AM.png" alt="project-screenshot" width="400" height="400/"><br/>
 
+<img src="https://i.im.ge/2022/08/16/OOWjOp.Screenshot-2022-08-16-at-9-51-27-AM.png" alt="project-screenshot" width="400" height="400/"><br/>
 
+<img src="https://i.im.ge/2022/08/16/OOWNof.Screenshot-2022-08-16-at-9-51-54-AM.png" alt="project-screenshot" width="400" height="400/">
